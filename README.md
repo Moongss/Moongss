@@ -1,4 +1,4 @@
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={chleee})](https://solved.ac/{chleee})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chleee)](https://solved.ac/chleee)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=chleee&theme=warm)
 
 <!--
