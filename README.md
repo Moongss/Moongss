@@ -9,7 +9,7 @@
 - 2025 SSU Programming Contest Solved Code Festival - 1st Place
 - 2025 SSU CSE Software Contest - 2nd Place
 - 2024 SSU Programming Contest SCON - 3rd Place
-- 2022 ROKAF Hackthon - 4th Place
+- 2022 ROKAF Hackathon - 4th Place
 
 ### Interests
 
