@@ -1,3 +1,9 @@
+### Careers
+
+- 2026.07. ~ : [The Pinkfong Company](https://www.thepinkfongcompany.com/)
+- 2026.03. ~ 2026.06.: [The Pinkfong Company(Intern)](https://www.thepinkfongcompany.com/)
+  - Web Dev Team, Software Engineer
+
 ### Education
 - Soongsil University, School of Computer Science & Engineering
 - 42Seoul, The 1st Generation Cadet / Member (called _chlee_)
@@ -11,7 +17,7 @@
 - 2024 SSU Programming Contest SCON - 3rd Place
 - 2022 ROKAF Hackathon - 4th Place
 
-### OpenSource Contributes
+### Contributes
 - [ag-psd/#264](https://github.com/Agamnentzar/ag-psd/pull/264): Fix a bug to support 16-bit color depth
 
 ### Interests
